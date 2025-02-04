@@ -1,0 +1,17 @@
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\bin\Debug\net8.0\ModbusMaster.exe
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\bin\Debug\net8.0\ModbusMaster.deps.json
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\bin\Debug\net8.0\ModbusMaster.runtimeconfig.json
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\bin\Debug\net8.0\ModbusMaster.dll
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\bin\Debug\net8.0\ModbusMaster.pdb
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\bin\Debug\net8.0\NModbus.dll
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.csproj.AssemblyReference.cache
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.AssemblyInfoInputs.cache
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.AssemblyInfo.cs
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.csproj.CoreCompileInputs.cache
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMa.EC53B05E.Up2Date
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.dll
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\refint\ModbusMaster.dll
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.pdb
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.genruntimeconfig.cache
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ref\ModbusMaster.dll

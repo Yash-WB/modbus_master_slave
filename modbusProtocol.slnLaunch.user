@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ModbusMaster\\ModbusMaster.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MasterSlave\\MasterSlave.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
