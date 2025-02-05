@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\EDGE\\modbus\\modbusProtocol\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD89741B-451F-4E0B-9A7E-09E17762CCFE}|UserInputs\\UserInputs.csproj|d:\\edge\\modbus\\modbusprotocol\\userinputs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD89741B-451F-4E0B-9A7E-09E17762CCFE}|UserInputs\\UserInputs.csproj|solutionrelative:userinputs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F81EEBFE-B1D5-467F-AA89-06A19F24A0CB}|ModbusMaster\\ModbusMaster.csproj|d:\\edge\\modbus\\modbusprotocol\\modbusmaster\\modbusmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F81EEBFE-B1D5-467F-AA89-06A19F24A0CB}|ModbusMaster\\ModbusMaster.csproj|solutionrelative:modbusmaster\\modbusmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F81EEBFE-B1D5-467F-AA89-06A19F24A0CB}|ModbusMaster\\ModbusMaster.csproj|d:\\edge\\modbus\\modbusprotocol\\modbusmaster\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F81EEBFE-B1D5-467F-AA89-06A19F24A0CB}|ModbusMaster\\ModbusMaster.csproj|solutionrelative:modbusmaster\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{CD89741B-451F-4E0B-9A7E-09E17762CCFE}|UserInputs\\UserInputs.csproj|d:\\edge\\modbus\\modbusprotocol\\userinputs\\userinputs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD89741B-451F-4E0B-9A7E-09E17762CCFE}|UserInputs\\UserInputs.csproj|solutionrelative:userinputs\\userinputs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{531597E4-695D-4424-8E4C-246BA7961A5D}|MasterSlave\\MasterSlave.csproj|d:\\edge\\modbus\\modbusprotocol\\masterslave\\modbusslave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{531597E4-695D-4424-8E4C-246BA7961A5D}|MasterSlave\\MasterSlave.csproj|solutionrelative:masterslave\\modbusslave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F81EEBFE-B1D5-467F-AA89-06A19F24A0CB}|ModbusMaster\\ModbusMaster.csproj|d:\\edge\\modbus\\modbusprotocol\\modbusmaster\\modbusmaster.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F81EEBFE-B1D5-467F-AA89-06A19F24A0CB}|ModbusMaster\\ModbusMaster.csproj|solutionrelative:modbusmaster\\modbusmaster.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{531597E4-695D-4424-8E4C-246BA7961A5D}|MasterSlave\\MasterSlave.csproj|d:\\edge\\modbus\\modbusprotocol\\masterslave\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{531597E4-695D-4424-8E4C-246BA7961A5D}|MasterSlave\\MasterSlave.csproj|solutionrelative:masterslave\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD89741B-451F-4E0B-9A7E-09E17762CCFE}|UserInputs\\UserInputs.csproj|d:\\edge\\modbus\\modbusprotocol\\userinputs\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD89741B-451F-4E0B-9A7E-09E17762CCFE}|UserInputs\\UserInputs.csproj|solutionrelative:userinputs\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD0BA8C-938A-4443-BCF5-C0B42D9EEFBF}|Solution Items{ABD0BA8C-938A-4443-BCF5-C0B42D9EEFBF}|D:\\EDGE\\modbus\\modbusProtocol\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABD0BA8C-938A-4443-BCF5-C0B42D9EEFBF}|Solution Items{ABD0BA8C-938A-4443-BCF5-C0B42D9EEFBF}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ModbusSlave.cs",
-              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\MasterSlave\\ModbusSlave.cs",
-              "RelativeDocumentMoniker": "MasterSlave\\ModbusSlave.cs",
-              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\MasterSlave\\ModbusSlave.cs",
-              "RelativeToolTip": "MasterSlave\\ModbusSlave.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T06:27:52.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ModbusMaster.cs",
-              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\ModbusMaster\\ModbusMaster.cs",
-              "RelativeDocumentMoniker": "ModbusMaster\\ModbusMaster.cs",
-              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\ModbusMaster\\ModbusMaster.cs",
-              "RelativeToolTip": "ModbusMaster\\ModbusMaster.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T06:25:39.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\ModbusMaster\\Dockerfile",
-              "RelativeDocumentMoniker": "ModbusMaster\\Dockerfile",
-              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\ModbusMaster\\Dockerfile",
-              "RelativeToolTip": "ModbusMaster\\Dockerfile",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-05T06:19:00.376Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\UserInputs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserInputs\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\UserInputs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserInputs\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T10:43:36.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ModbusMaster",
+              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\ModbusMaster\\ModbusMaster.csproj",
+              "RelativeDocumentMoniker": "ModbusMaster\\ModbusMaster.csproj",
+              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\ModbusMaster\\ModbusMaster.csproj",
+              "RelativeToolTip": "ModbusMaster\\ModbusMaster.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T10:11:27.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModbusMaster.cs",
+              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\ModbusMaster\\ModbusMaster.cs",
+              "RelativeDocumentMoniker": "ModbusMaster\\ModbusMaster.cs",
+              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\ModbusMaster\\ModbusMaster.cs",
+              "RelativeToolTip": "ModbusMaster\\ModbusMaster.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:20:19.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInputs",
+              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\UserInputs\\UserInputs.csproj",
+              "RelativeDocumentMoniker": "UserInputs\\UserInputs.csproj",
+              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\UserInputs\\UserInputs.csproj",
+              "RelativeToolTip": "UserInputs\\UserInputs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T10:20:47.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\MasterSlave\\Dockerfile",
               "RelativeDocumentMoniker": "MasterSlave\\Dockerfile",
               "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\MasterSlave\\Dockerfile",
               "RelativeToolTip": "MasterSlave\\Dockerfile",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-05T06:17:56.634Z",
+              "WhenOpened": "2025-02-05T09:53:29.958Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-05T09:41:56.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\EDGE\\modbus\\modbusProtocol\\UserInputs\\Dockerfile",
+              "RelativeDocumentMoniker": "UserInputs\\Dockerfile",
+              "ToolTip": "D:\\EDGE\\modbus\\modbusProtocol\\UserInputs\\Dockerfile",
+              "RelativeToolTip": "UserInputs\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-05T09:37:16.327Z"
             }
           ]
         }

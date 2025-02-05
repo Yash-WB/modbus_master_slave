@@ -17,6 +17,7 @@ public class ModbusSlave
     private readonly ushort[] registerValues;
 
     public ModbusSlave(string ipAddress = "0.0.0.0", int port = 502)
+    //public ModbusSlave(string ipAddress = "192.168.0.220", int port = 502)
     {
         this.ipAddress = ipAddress;
         this.port = port;

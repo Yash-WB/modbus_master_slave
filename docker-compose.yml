@@ -14,7 +14,7 @@ services:
 
   modbus-master:
     build:
-      context: ./ModbusMaster
+      context: .
       dockerfile: Dockerfile
     container_name: modbus-master
     depends_on:
@@ -24,6 +24,16 @@ services:
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
       - ASPNETCORE_URLS=http://+:8080
+      
+  user-inputs:
+    build:
+        context: ./UserInputs
+        dockerfile: Dockerfile
+    container_name: user-inputs
+    ports:
+        - "5181:8080"
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
 
 networks:
   modbus-network:

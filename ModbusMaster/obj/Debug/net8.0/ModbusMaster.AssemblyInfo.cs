@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModbusMaster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebdd0e885eadf23bfeff440149d10f7b74b0bea2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79afdb24f70d5b74dcdc3fdfe7c842009737c89e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModbusMaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModbusMaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

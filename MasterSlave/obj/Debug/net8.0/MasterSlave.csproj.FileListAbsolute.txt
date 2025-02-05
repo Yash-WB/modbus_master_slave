@@ -1,8 +1,5 @@
 D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\MasterSlave.exe
-D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\MasterSlave.deps.json
-D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\MasterSlave.runtimeconfig.json
 D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\MasterSlave.dll
-D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\MasterSlave.pdb
 D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\NModbus.dll
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.csproj.AssemblyReference.cache
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,5 +11,8 @@ D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSl.DB47D414.Up2
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.dll
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\refint\MasterSlave.dll
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.pdb
+D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\MasterSlave.deps.json
+D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\MasterSlave.runtimeconfig.json
+D:\EDGE\modbus\modbusProtocol\MasterSlave\bin\Debug\net8.0\MasterSlave.pdb
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.genruntimeconfig.cache
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\ref\MasterSlave.dll

@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		docker-compose.yml = docker-compose.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInputs", "UserInputs\UserInputs.csproj", "{CD89741B-451F-4E0B-9A7E-09E17762CCFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{531597E4-695D-4424-8E4C-246BA7961A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{531597E4-695D-4424-8E4C-246BA7961A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{531597E4-695D-4424-8E4C-246BA7961A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD89741B-451F-4E0B-9A7E-09E17762CCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD89741B-451F-4E0B-9A7E-09E17762CCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD89741B-451F-4E0B-9A7E-09E17762CCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD89741B-451F-4E0B-9A7E-09E17762CCFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
