@@ -10,7 +10,7 @@ public class ModbusMaster
     private IModbusMaster? master;
     private TcpClient? tcpClient;
 
-    public ModbusMaster(string ipAddress = "192.168.0.220", int port = 502)
+    public ModbusMaster(string ipAddress = "modbus-slave", int port = 502)
     {
         this.ipAddress = ipAddress;
         this.port = port;
@@ -38,27 +38,29 @@ public class ModbusMaster
         try
         {
             byte slaveId = 1;
-            ushort startAddress = 40;
+
+            ushort startAddress = 30;
+
             ushort numRegisters = 10;
 
-            if (master != null)
+            while (true)
             {
-                ushort[] registers = await master.ReadHoldingRegistersAsync(slaveId, startAddress, numRegisters);
-
-                for (int i = 0; i < numRegisters; i++)
+                if (master != null)
                 {
-                    Console.WriteLine($"Register {(startAddress + i)} = {registers[i]}");
+                    ushort[] registers = await master.ReadHoldingRegistersAsync(slaveId, startAddress, numRegisters);
+
+                    for (int i = 0; i < numRegisters; i++)
+                    {
+                        Console.WriteLine($"Register {startAddress + i} = {registers[i]}");
+                    }
                 }
+                else
+                {
+                    Console.WriteLine("Modbus master is not connected.");
+                }
+
+                await Task.Delay(5000);
             }
-            else
-            {
-                Console.WriteLine("Modbus master is not connected.");
-            }
-        }
-        catch (NModbus.SlaveException ex)
-        {
-            Console.WriteLine($"SlaveException: {ex.Message} (Check slave address, function, or register address)");
-            throw;
         }
         catch (Exception ex)
         {
@@ -73,11 +75,9 @@ public class ModbusMaster
         try
         {
             await master.ConnectAsync();
-
             await Task.Delay(500);
 
             Console.WriteLine("Starting to read registers...");
-
             await master.ReadRegistersAsync();
         }
         catch (Exception ex)

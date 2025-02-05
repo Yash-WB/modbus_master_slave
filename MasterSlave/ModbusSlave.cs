@@ -16,7 +16,7 @@ public class ModbusSlave
     private CancellationTokenSource? cancellationSource;
     private readonly ushort[] registerValues;
 
-    public ModbusSlave(string ipAddress = "192.168.0.220", int port = 502)
+    public ModbusSlave(string ipAddress = "0.0.0.0", int port = 502)
     {
         this.ipAddress = ipAddress;
         this.port = port;
@@ -26,9 +26,10 @@ public class ModbusSlave
 
     private void InitializeRegisters()
     {
+        Random random = new Random();
         for (int i = 0; i < registerValues.Length; i++)
         {
-            registerValues[i] = (ushort)(i+15);
+            registerValues[i] = (ushort)(i + random.Next(100));
         }
     }
 

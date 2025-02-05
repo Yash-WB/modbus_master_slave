@@ -9,6 +9,7 @@ D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.Generat
 D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.AssemblyInfoInputs.cache
 D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.AssemblyInfo.cs
 D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.csproj.CoreCompileInputs.cache
+D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.sourcelink.json
 D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMa.EC53B05E.Up2Date
 D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\ModbusMaster.dll
 D:\EDGE\modbus\modbusProtocol\ModbusMaster\obj\Debug\net8.0\refint\ModbusMaster.dll

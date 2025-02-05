@@ -1,0 +1,30 @@
+services:
+  modbus-slave:
+    build:
+      context: ./MasterSlave
+      dockerfile: Dockerfile
+    container_name: modbus-slave
+    ports:
+      - "502:502"
+    networks:
+      - modbus-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:8080
+
+  modbus-master:
+    build:
+      context: ./ModbusMaster
+      dockerfile: Dockerfile
+    container_name: modbus-master
+    depends_on:
+      - modbus-slave
+    networks:
+      - modbus-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:8080
+
+networks:
+  modbus-network:
+    driver: bridge

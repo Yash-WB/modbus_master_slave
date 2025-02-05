@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MasterSlave": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

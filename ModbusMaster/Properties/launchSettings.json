@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ModbusMaster": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

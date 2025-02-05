@@ -9,6 +9,7 @@ D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.Generated
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.AssemblyInfoInputs.cache
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.AssemblyInfo.cs
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.csproj.CoreCompileInputs.cache
+D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.sourcelink.json
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSl.DB47D414.Up2Date
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\MasterSlave.dll
 D:\EDGE\modbus\modbusProtocol\MasterSlave\obj\Debug\net8.0\refint\MasterSlave.dll

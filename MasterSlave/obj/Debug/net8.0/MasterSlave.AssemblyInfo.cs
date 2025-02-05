@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterSlave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebdd0e885eadf23bfeff440149d10f7b74b0bea2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterSlave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterSlave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
